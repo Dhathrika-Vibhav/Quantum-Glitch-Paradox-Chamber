@@ -64,8 +64,15 @@ The nature of consciousness
 Recursive reality and existence
 
 Warning
-This game may challenge your perception of reality. Proceed with caution! 🌀
+
+This game may challenge your perception of reality. Proceed with caution! 
+
+
+
 License
 Open-source under the MIT License
+
+
+
 Created By
-A quantum storyteller with a passion for puzzles and philosophical exploration
+Vibhav dhathrika, Bangalore India, 13yrs old
