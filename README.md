@@ -2,6 +2,7 @@
 A mind-bending pixel art escape room where reality unravels through cryptic puzzles, challenging players to question the nature of consciousness and existence.
 
 Game Concept
+
 You are trapped in a series of interconnected rooms, each filled with cryptic puzzles, mysterious objects, and increasingly strange revelations. As you progress, the game blurs the lines between reality, perception, and the nature of consciousness itself.
 Key Features
 
@@ -12,6 +13,7 @@ Key Features
 🔍 Hidden clues and interactive elements
 
 Rooms and Challenges
+
 Room 1
 
 Solve color sequence puzzle
