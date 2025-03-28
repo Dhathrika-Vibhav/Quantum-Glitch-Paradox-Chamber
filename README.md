@@ -42,11 +42,11 @@ Installation
 
 Ensure Python is installed
 Install Pygame:
-Copypip install pygame
+pip install pygame
 
 Clone the repository
 Run the game:
-Copypython pixel_escape_room.py
+python Escaperoom.py
 
 
 Easter Eggs and Hints
